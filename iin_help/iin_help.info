@@ -1,0 +1,3 @@
+name = IIN Help
+description = Help module for content editors
+core = 7.x

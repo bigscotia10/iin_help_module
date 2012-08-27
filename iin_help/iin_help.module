@@ -1,0 +1,11 @@
+<?php
+
+/*
+ * Help module for content editors
+ */
+
+function custom_help($path, $arg) {
+  if ($path == 'node/add'){
+    return t('Help info to go here');
+  }
+}
